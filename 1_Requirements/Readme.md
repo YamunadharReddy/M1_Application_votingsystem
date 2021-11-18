@@ -1,29 +1,42 @@
 # Requirements
 
 ### Introduction
---- TBD
+--- Online Election System would have Candidate registration, document verification, auto-generated User ID and pass for candidate and Voters. Admin Login which will be handled by Election Commission .Candidate Login which will be handled By Candidate, Voters will get Unique ID and Password, Using which they can vote for a Candidate only once per Election. 
+The project is beneficial for Election Commission, Voters as the can get to know the candidate background and choose wisely, and even for Candidate. The software system allows the Candidate to login in to their profiles and upload all their vote.
 
 ### Research
-![Description](Link to Pic) -- Content
+![Description]() -- Content
+Voting system in the past was using the ballots papers later electronic machines were used to vote. As we see the evolution of voting system were but the there is no fruitful result or expected members who are intrested to vote.
+So the here comes the E-voting system which is free,secret,reliable and secure as voting systems that do not involve the use of electronic means.
 
 ### Cost and Features and Timeline
 ![Description](Link to Pic) -- Content
+
 ### Defining Our System
--- TBD
+-- Allows us to set up a flexible and trustworthy voting system
+-- Applicable for large as well as small group of people.
+-- Keeps a record of  every voting process.
 ### SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
+-- STRENGTHS : This voting system can be useful for fast,better,time saving,cost effective and handy for users.Easy installation.
+-- WEAKNESS : Major weakness can be failure of system and bugs.Server issues can also be part of this.
+-- Opportunity : Voter have easy approach to the platform can vote any time they wanted.Encourages more people to vote.
+-- Threats : Major threat of any online system is security.Authorities have to maintain a strong security.Hackers can easily gain access and control process in case of poor security.
 
 ## 4W's and 1'H
 ### Who:
-TBD
+People want a good environment to vote. So Ensuring a new system called online voting.
 
-### What:
-TBD
+
+### What
+Traditional voting systems have been develpoed to ensure that the principles required for democratic elections.Secrecy of vote says that lack of intimidation during the vote process.
+
 
 ### When:
-TBD
+
 
 ### Where:
+Online vo
 TBD
 
 ### How:
