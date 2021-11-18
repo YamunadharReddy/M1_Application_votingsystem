@@ -33,18 +33,25 @@ Traditional voting systems have been develpoed to ensure that the principles req
 
 
 ### When:
-
+During any kind of elections it is useful to online for easy and time saving.
+For elections of large and small groups.
 
 ### Where:
 Online vo
 TBD
 
 ### How:
-TBD
+
 
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
-
+1.The High level requirement for this project is software,devices and Voters. 
+2 .Every user who is voting has right to vote.
+2 .Ensure every user has to vote their own.
+3 .Accessibility of vote for small to large group and different type of personalities.
 ## Low level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+1 . To ensure voter is free to use the platform.
+2 . Increase the percentage of voter.
+3 .Increase transparency of information of each system.
+
