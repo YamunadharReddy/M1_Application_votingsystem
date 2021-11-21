@@ -5,7 +5,7 @@
  
 The project is beneficial for Election Commission, Voters as the can get to know the candidate background and choose wisely, and even for Candidate. The software system allows the Candidate to login in to their profiles and upload all their vote.
 
-------
+---
 
 ### 2. Research
 
