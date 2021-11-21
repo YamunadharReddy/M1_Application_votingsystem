@@ -34,11 +34,13 @@ So the here comes the E-voting system which is free,secret,reliable and secure a
 
 ### 5.SWOT ANALYSIS
 -- STRENGTHS : This voting system can be useful for fast,better,time saving,cost effective and handy for users.Easy installation.
+
 -- WEAKNESS : Major weakness can be failure of system and bugs.Server issues can also be part of this.
+
 -- Opportunity : Voter have easy approach to the platform can vote any time they wanted.Encourages more people to vote.
+
 -- Threats : Major threat of any online system is security.Authorities have to maintain a strong security.Hackers can easily gain access and control process in case of poor security.
 
------
 ## 6. 4W's and 1'H
 ### Who:
 People want a good environment to vote. So Ensuring a new system called online voting.
@@ -58,7 +60,7 @@ E-voting via internet encourages more voters to cast their vote remotely and inc
 --Voting has to be free,secret,reliale and secure as voting systems that do not involve
 the use of electronic means.
 
------
+
 
 # Detail requirements
 ## 7. High Level Requirements:
