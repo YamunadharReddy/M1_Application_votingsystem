@@ -18,7 +18,9 @@ So the here comes the E-voting system which is free,secret,reliable and secure a
 
 ##### Cost:
 -- Software Development  cost
+
 -- Installation cost
+
 -- License fee
 -- Development and procurement costs for voters.
 -- Operating costs
