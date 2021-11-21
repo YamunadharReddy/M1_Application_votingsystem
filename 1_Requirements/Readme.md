@@ -22,14 +22,16 @@ So the here comes the E-voting system which is free,secret,reliable and secure a
 -- Installation cost
 
 -- License fee
+
 -- Development and procurement costs for voters.
+
 -- Operating costs
-----
+
 ### 4.Defining Our System
 -- Allows us to set up a flexible and trustworthy voting system
 -- Applicable for large as well as small group of people.
 -- Keeps a record of  every voting process.
-----
+
 ### 5.SWOT ANALYSIS
 -- STRENGTHS : This voting system can be useful for fast,better,time saving,cost effective and handy for users.Easy installation.
 -- WEAKNESS : Major weakness can be failure of system and bugs.Server issues can also be part of this.
