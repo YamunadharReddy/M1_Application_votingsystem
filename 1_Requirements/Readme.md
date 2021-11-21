@@ -5,10 +5,16 @@
  
 The project is beneficial for Election Commission, Voters as the can get to know the candidate background and choose wisely, and even for Candidate. The software system allows the Candidate to login in to their profiles and upload all their vote.
 
+------
+
 ### 2. Research
 
 Voting system in the past was using the ballots papers later electronic machines were used to vote. As we see the evolution of voting system were but the there is no fruitful result or expected members who are intrested to vote.
 So the here comes the E-voting system which is free,secret,reliable and secure as voting systems that do not involve the use of electronic means.
+
+
+----------
+
 
 ### 3.Cost and Features and Timeline
 ##### Features:
@@ -26,10 +32,18 @@ So the here comes the E-voting system which is free,secret,reliable and secure a
 
 -- Operating costs
 
+
+
+--------
+
+
 ### 4.Defining Our System
 -- Allows us to set up a flexible and trustworthy voting system
 -- Applicable for large as well as small group of people.
 -- Keeps a record of  every voting process.
+
+----------
+
 
 ### 5.SWOT ANALYSIS
 -- STRENGTHS : This voting system can be useful for fast,better,time saving,cost effective and handy for users.Easy installation.
@@ -39,6 +53,11 @@ So the here comes the E-voting system which is free,secret,reliable and secure a
 -- Opportunity : Voter have easy approach to the platform can vote any time they wanted.Encourages more people to vote.
 
 -- Threats : Major threat of any online system is security.Authorities have to maintain a strong security.Hackers can easily gain access and control process in case of poor security.
+
+
+
+----------
+
 
 ## 6. 4W's and 1'H
 ### Who:
@@ -59,7 +78,7 @@ E-voting via internet encourages more voters to cast their vote remotely and inc
 --Voting has to be free,secret,reliale and secure as voting systems that do not involve
 the use of electronic means.
 
-
+-----------
 
 # Detail requirements
 ## 7. High Level Requirements:
