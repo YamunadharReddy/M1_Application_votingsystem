@@ -7,7 +7,8 @@
 
 
 
----# BADGES
+---
+# BADGES
 
 
 |# Cppcheck  |  Codecy |  
