@@ -10,7 +10,7 @@ src/election.h\
 TEST_SRC = src/main.c\
 src/election.c\
 src/election.h\
-test/test_Managment.c
+test/test.c
 
 #Path to the header file
 INC_HEADER = inc
