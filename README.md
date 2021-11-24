@@ -10,4 +10,5 @@
 ---
 # Cppcheck
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb4c31a9584141ee8d20b262129cf444)](https://app.codacy.com/gh/YamunadharReddy/M1_Application_votingsystem?utm_source=github.com&utm_medium=referral&utm_content=YamunadharReddy/M1_Application_votingsystem&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action-test](https://github.com/YamunadharReddy/M1_Application_votingsystem/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/YamunadharReddy/M1_Application_votingsystem/actions/workflows/cppcheck.yml)
