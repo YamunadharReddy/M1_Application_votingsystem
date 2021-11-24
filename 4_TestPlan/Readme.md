@@ -5,7 +5,8 @@
 | Test_Id  |   Desciption         |  Expected_Input | Expected_output  | Actual_Output | Type_of_Test |
 | -------- |   --------------     |  -------------- | ---------------  | ------------- | -------------|
 | HP01     |   User Interface     |  Character Y    | Enter The Answer | Pass          | Requrirement |
-
+|HP02    |   LOGIN  |        Random input | Error |   pass | Scenario|
+|  HP03    |  Intiate Election   |          standard given input        |       Further process           |       pass        |      Requrirement       |
 
 
 ## Low Level Test Plan
